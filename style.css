@@ -1,0 +1,27 @@
+body{
+    background-size:cover;
+}
+.heading{
+    font-family:sevillana;
+    border-style:dashed;
+    border-color: grey;
+    border-radius: 10px;
+    width:100%;
+    margin-top:0px;
+    font-size:50px;
+}
+.note{
+    font-size:25px;
+    color:lightblue;
+}
+#objectname{
+    width:30%;
+
+}
+canvas{
+    border-radius:10px;
+    border-style:dotted;
+    box-shadow: 5px 5px 5px grey;
+    margin-top:170px;
+}
+
